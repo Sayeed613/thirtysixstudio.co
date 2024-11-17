@@ -1,6 +1,6 @@
 import "./index.css";
 import Canvas from "./Canvas";
-import data from "./data";
+import data from "./data.js";
 import { useEffect, useState, useRef } from "react";
 import LocomotiveScroll from "locomotive-scroll";
 import gsap from "gsap";
