@@ -1,4 +1,4 @@
-export default [
+const canvasimages = [
     "https://thirtysixstudio.com/peppers/pepperA/0.png",
     "https://thirtysixstudio.com/peppers/pepperA/1.png",
     "https://thirtysixstudio.com/peppers/pepperA/2.png",
@@ -1050,3 +1050,5 @@ export default [
     "https://thirtysixstudio.com/peppers/pepperG/148.png",
     "https://thirtysixstudio.com/peppers/pepperG/149.png",
     ]
+
+export default canvasimages;

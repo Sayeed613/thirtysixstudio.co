@@ -1,4 +1,4 @@
-export default [
+ const data  = [
     [
         {
             startIndex: 0,
@@ -407,3 +407,4 @@ export default [
         },
     ],
 ]
+export default data;
