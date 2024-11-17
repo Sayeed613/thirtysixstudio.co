@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import canvasImages from "./canvasimages.js";
+import canvasImages from "./assets/index";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 
